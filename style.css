@@ -105,7 +105,7 @@ background-color: #477D1126;
     align-items: center;
     background-color: #2727270D;
    margin:auto;
-   margin-top: 50px;
+   margin-top:40;
    margin-bottom: 140px;
    
 }
@@ -136,4 +136,39 @@ padding-right: 220px;
 }
 .span{
     color: #E55473;
+}
+
+/*section 4*/
+.sec4{
+    text-align: center;
+}
+.sec4-box-container{
+    display: flex;
+    justify-content: space-around;
+    margin: 40px 240px;
+}
+.sec4-box{
+    margin: 0px 10px;
+    width: 340px;
+    height: 495px;
+}
+.search{
+    width: 1425px;
+    height: 450px;
+    margin-left: 138px;
+    background-image: url("./Flower Asset/Rectangle\ 9.png");
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 140px;
+}
+
+
+.search-box{
+text-align: center;
+}
+
+.input{
+    width: 600px;
+    height: 40px;
 }
