@@ -41,6 +41,8 @@
     border-radius: 8px;
     background-color: #E55473;
     color: white;
+    border: none;
+    border-radius: 5px;
 }
 /*section 1*/
 .sec1{
@@ -106,4 +108,29 @@ background-color: #477D1126;
    margin-top: 50px;
    margin-bottom: 140px;
    
+}
+
+/*section 3*/
+.sec3{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    align-items: center;
+    background-color: #E554730D;
+    height: 600px;
+    margin-bottom: 130px;
+}
+.cmn-title{
+    font-size: 40px;
+    font-weight: 800;
+    color:#272727;
+}
+
+.sec3-img{
+width: 300px;
+height: 400px;
+padding-right: 220px;
+}
+.sec3-title-box{
+    padding-left: 220px;
 }
