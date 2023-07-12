@@ -155,24 +155,28 @@ padding-right: 220px;
 .search{
     width: 1425px;
     height: 438px;
-    margin-left: 138px;
     background-image: url("./Flower Asset/Rectangle\ 9.png");
     display: flex;
     justify-content: center;
     align-items: center;
     margin-bottom: 140px;
+   
+
 }
 
 
 .search-box{
-text-align: center;
+    display: flex;
+    justify-content: center;
 }
+   
 
 .input{
     width: 600px;
     height: 40px;
 }
 
+/*footer part*/
 .footer{
     height:400px;
     background-color: #111010;
